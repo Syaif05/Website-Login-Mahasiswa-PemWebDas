@@ -53,22 +53,23 @@ Nah, ini dia daftar fitur yang udah ada di portal mahasiswa sederhana ini:
 Biar nggak nebak-nebak, ini dia penampakan beberapa halaman utama portalnya:
 
 **1. Halaman Login (`login.php`)**
-![Tampilan Halaman Login](/src/screenshot/login.php.png)
+![Tampilan Halaman Login](src/screenshot/login.php.png)
 
 **2. Halaman Pendaftaran (`daftar.php`)**
-![Tampilan Halaman Pendaftaran](./src/screenshot/daftar.php.png)
+![Tampilan Halaman Pendaftaran](src/screenshot/daftar.php.png)
 
 **3. Halaman Dashboard (`dashboard.php`)**
-![Tampilan Halaman Dashboard](./src/screenshot/dashboard.php.png)
+![Tampilan Halaman Dashboard](src/screenshot/dashboard.php.png)
 
 **4. Halaman Profil (`profil.php`)**
-![Tampilan Halaman Profil](./src/screenshot/profil.php.png)
+![Tampilan Halaman Profil](src/screenshot/profil.php.png)
 
 **5. Halaman Edit Profil (`edit_profil.php`)**
-![Tampilan Halaman Edit Profil](./src/screenshot/edit_profil.php.png)
+![Tampilan Halaman Edit Profil](src/screenshot/edit_profil.php.png)
 
 **6. Halaman Lupa Password (`lupa_password.php`)**
-![Tampilan Halaman Lupa Password](./src/screenshot/lupa_password.php.png)
+![Tampilan Halaman Lupa Password](src/screenshot/lupa_password.php.png)
+
 
 ## 🛠️ Teknologi yang Dipakai (Bahan-bahannya Apa Aja?)
 
@@ -125,7 +126,8 @@ Kalau Docker udah siap, tinggal ikutin langkah ini:
 
 Biar nggak bingung nyari file, ini gambaran isi foldernya:
 
-![Struktur Folder Proyek](./src/screenshot/struktur_folder.png)
+**Struktur Folder Proyek**
+![Struktur Folder Proyek](src/screenshot/struktur_folder.png)
 
 Penjelasan singkatnya:
 
