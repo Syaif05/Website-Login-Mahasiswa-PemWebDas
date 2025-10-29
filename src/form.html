@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h2>Absen Mahasiswa</h2>
+    <form action="proses.php" method="post">
+      Nama: <input type="text" name="nama" required /><br /><br />
+      NIM: <input type="text" name="nim" required /><br /><br />
+      Tanggal <input type="date" name="tanggal" required /><br /><br />
+      Jurusan:
+      <select name="jurusan">
+        <option value="TI">Teknik Informatika</option>
+        <option value="SI">Sistem Informasi</option>
+        <option value="RPL">Rekayasa Perangkat Lunak</option>
+        <option value="MI">Manajemen Informatika</option>
+        <option value="KA">Komputer Akuntansi</option>
+      </select>
+      <input type="submit" value="Kirim" />
+    </form>
+  </body>
+</html>
