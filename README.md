@@ -126,7 +126,6 @@ Kalau Docker udah siap, tinggal ikutin langkah ini:
 
 Biar nggak bingung nyari file, ini gambaran isi foldernya:
 
-**Struktur Folder Proyek**
 ![Struktur Folder Proyek](src/asset/screenshot/struktur_folder.png)
 
 Penjelasan singkatnya:
