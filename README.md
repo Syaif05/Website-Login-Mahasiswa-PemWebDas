@@ -53,7 +53,7 @@ Nah, ini dia daftar fitur yang udah ada di portal mahasiswa sederhana ini:
 Biar nggak nebak-nebak, ini dia penampakan beberapa halaman utama portalnya:
 
 **1. Halaman Login (`login.php`)**
-![Tampilan Halaman Login](./src/screenshot/login.php.png)
+![Tampilan Halaman Login](/src/screenshot/login.php.png)
 
 **2. Halaman Pendaftaran (`daftar.php`)**
 ![Tampilan Halaman Pendaftaran](./src/screenshot/daftar.php.png)
